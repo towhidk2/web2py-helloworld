@@ -13,4 +13,4 @@ deploy_app:
     - oracle
   stage: deploy
   script:
-    - echo "Running unit tests..."
+    - echo "Running unit tests...."
